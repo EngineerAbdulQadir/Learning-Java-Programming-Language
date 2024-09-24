@@ -74,7 +74,7 @@ public class SecondClass {
         // nextDouble()
         // nextLong ()
 
-        //Practice Question (Take 2 variables 'a'&'b' and Print their sum)
+        // Practice Question (Take 2 variables 'a'&'b' and Print their sum)
         // Scanner sc = new Scanner(System.in); 
         // int a = sc.nextInt();
         // int b = sc.nextInt();
