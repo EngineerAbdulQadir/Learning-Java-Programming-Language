@@ -1,19 +1,22 @@
 # Class 01 - Introduction to Java Programming
 
-## Topics Covered:
-1. **Binary in Programming**: Understanding how binary (0s and 1s) is the fundamental language of computers.
-2. **Decimal to Binary Conversion**: Basic examples of converting decimal numbers into binary.
-3. **High-Level Language (Java)**: Explanation of how Java works as a high-level programming language.
-4. **Java Code Conversion**: Understanding how Java source code is compiled and executed using the Java compiler and JVM.
-5. **Installing JDK and VS Code**: Step-by-step instructions for setting up your development environment.
-6. **First Java Code**: Writing and running your first "Hello World" Java program.
-7. **Functions and Classes in Java**: An introduction to how functions (methods) and classes work in Java.
+## Table of Contents
+- [Binary in Programming](#binary-in-programming)
+- [Decimal to Binary Conversion](#decimal-to-binary-conversion)
+- [High-Level Language (Java)](#high-level-language-java)
+- [Java Code Conversion](#java-code-conversion)
+- [Installing JDK and VS Code](#installing-jdk-and-vs-code)
+- [First Java Code](#first-java-code)
+- [Functions and Classes in Java](#functions-and-classes-in-java)
+- [Conclusion](#conclusion)
 
 ---
 
-**Binary in Programming (Definition)**:  
+### Binary in Programming
+**Definition**:  
 Binary is a base-2 number system used by computers to represent all data and instructions, consisting of only 0s and 1s.
 
+### Decimal to Binary Conversion
 **Decimal to Binary Table**:
 ```
 Decimal | Binary
@@ -22,18 +25,17 @@ Decimal | Binary
    3    |   11
    4    |  100
 ```
-
 Computers understand keywords and special characters by converting them into binary.
 
-**High-Level Language (Java)**:  
+### High-Level Language (Java)
 Java is the high-level programming language used in this course. Java code is written by humans and converted into binary using a compiler so the computer can understand and execute it.
 
-### Java Code Conversion:
+### Java Code Conversion
 1. **Java Code** is written in `.java` files.
 2. **Compiler (javac)** converts Java source code to bytecode (binary format).
 3. **JVM (Java Virtual Machine)** interprets the bytecode and runs it on the computer.
 
-### Installation Process for JDK and VS Code (in `.md` format):
+### Installing JDK and VS Code
 ```markdown
 # JDK and VS Code Installation Guide
 
@@ -68,7 +70,7 @@ Java is the high-level programming language used in this course. Java code is wr
 You're all set!
 ```
 
-### First Java Code Example:
+### First Java Code
 ```java
 class FirstClass {
     public static void main (String args[]) {
@@ -76,10 +78,9 @@ class FirstClass {
     }
 }
 ```
-
 - **File extension**: Save the file with the same name as the class and the extension `.java` (e.g., `FirstClass.java`).
 
-### Functions and Classes in Java:
+### Functions and Classes in Java
 
 **Function (method)**:  
 A function contains a set of statements to perform specific tasks and is used to execute code.
@@ -103,5 +104,5 @@ In Java, **functions** are used to run the code, and **classes** are used to sto
 
 ---
 
-### Conclusion:
+### Conclusion
 In this guide, we covered the basics of binary and its use in programming, particularly in Java. We explained how binary is the language computers understand, introduced the concept of high-level languages like Java, and demonstrated how Java code is compiled and executed. Additionally, we provided instructions for installing the JDK and VS Code, followed by writing and running your first Java program. Understanding how functions (methods) and classes work in Java sets the foundation for developing more complex applications in this versatile and widely-used programming language.
