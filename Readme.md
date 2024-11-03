@@ -1,5 +1,5 @@
 ## Learning Java Programming Language - GloVersity
-
+ 
 Welcome to the **Learning Java Programming Language** repository, organized by **GloVersity (GloProg)**. This repository contains all the work, assignments, and code examples discussed during the **Online Sessions**, aimed at helping students strengthen their Java programming skills.
 
 ## Overview
